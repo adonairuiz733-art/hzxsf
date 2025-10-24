@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "file": "games/2048/index.html",
+    "thumb": "games/2048/thumb.png"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "file": "games/tetris/index.html",
+    "thumb": "games/tetris/thumb.png"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "file": "games/hextris/index.html",
+    "thumb": "games/hextris/thumb.png"
+  },
+  {
+    "id": "breakout",
+    "title": "Breakout",
+    "file": "games/breakout/index.html",
+    "thumb": "games/breakout/thumb.png"
+  }
+]
